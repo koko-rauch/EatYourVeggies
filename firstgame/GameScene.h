@@ -1,0 +1,12 @@
+//
+//  MyScene.h
+//  firstgame
+//
+
+//  Copyright (c) 2014 Komugi Saraie. All rights reserved.
+//
+
+#import <SpriteKit/SpriteKit.h>
+
+@interface GameScene : SKScene
+@end
